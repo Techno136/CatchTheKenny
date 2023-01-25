@@ -13,7 +13,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.Random;
-// deneme
+// deneme2
 
 public class MainActivity extends AppCompatActivity {
     TextView Timetext;
